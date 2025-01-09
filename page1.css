@@ -1,0 +1,133 @@
+*
+{
+    margin:0%;
+    padding: 0%;
+}
+
+.cn{
+    background-color: #9e3ffd !important;
+}
+
+.navbar-brand {
+    font-weight: bold;
+}
+
+
+.sec1{
+    min-height: 110vh;
+    background-image:linear-gradient(rgba(255,255,255,0.2),rgba(255,255,255,0.7)), url("./Screenshot\ \(1\).png");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: left;
+    background-attachment: fixed;
+}
+.sec8
+{
+    height: fit-content;
+   
+    background-image: url("https://i.pinimg.com/736x/27/cb/f0/27cbf04fdc016ee4c985a082ba65d167.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+}
+
+
+
+.bg-purple{
+    background-color: #9e3ffd !important;
+}
+.sec2
+{
+    min-height: 80vh;
+}
+.sec3
+{
+    min-height: 75vh;
+    background-color: #16163f ;
+    color: aliceblue;
+}
+/* .c{
+    
+    background-image: url(https://as1.ftcdn.net/v2/jpg/03/00/38/60/1000_F_300386027_ZcIzFae6SiecspSnqUtSj6MouYYmZdHz.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed; */
+
+.sec4{
+    min-height: 100vh;
+    /* background-color: #9e3ffd; */
+}
+.sec5{
+    /* min-height: 80vh; */
+    height: fit-content;
+    
+}
+.sec6{
+    min-height: 12vh;
+    /* color: #f8f0ff; */
+    background-color:#ede9ee ;
+
+
+}
+/* .sec5{
+    min-height: 80vh;
+    background: url(./jasscrn.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed; */
+
+    .jersey-15-regular {
+        font-family: "Jersey 15", serif;
+        font-weight: 900;
+        font-style: normal;
+        font-size: larger;
+      }
+      .sec7
+      {
+        min-height: 20vh;
+        /* color: #f8f0ff; */
+        /* color: #f8f0ff; */
+        background-color: #ede9ee ;
+        /* border-top: rgb(8, 8, 8); */
+        /* padding-top: 5px; */
+        border-top: 2px solid white;
+        
+      }
+      .protest-guerrilla-regular {
+        font-family: "Protest Guerrilla", serif;
+        font-weight: 900;
+        font-style: normal;
+        font-size: larger;
+      }
+      .rubik-vinyl-regular {
+        font-family: "Rubik Vinyl", serif;
+        font-weight: 900;
+        font-style: normal;
+        font-size: larger;
+      }
+      .playwrite-ie-guides-regular {
+        font-family: "Playwrite IE Guides", serif;
+        font-weight: 400;
+        font-style: normal;
+      }
+     
+
+.playwrite-au-sa-jas {
+  font-family: "Playwrite AU SA", serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+}
+      
+.map{
+    height: 80vh;
+}  
+      
+      
+      
+
+
+
